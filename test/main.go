@@ -8,7 +8,7 @@ import (
 	"time"
 
 	faktory "github.com/contribsys/faktory/client"
-	worker "github.com/contribsys/faktory_worker_go"
+	worker "github.com/florrdv/faktory_worker_go"
 )
 
 func someFunc(ctx context.Context, args ...interface{}) error {
